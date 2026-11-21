@@ -9,7 +9,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/ARYANSONIOP/NewMusicBot/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/Vishalvn07/NewMusicBot/blob/main/sample.env)
 ---
 
 ### 🔧 Quick Setup
